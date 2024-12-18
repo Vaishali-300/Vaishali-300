@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Vaishali S!
 
-<!--
-**Vaishali-300/Vaishali-300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm an aspiring software developer 🚀, passionate about building innovative solutions and learning new technologies.**
+---
+### 👩‍💻 About Me:
+- 🎓 **Education**: B.Tech in Electrical and Electronics Engineering (EEE)  
+- 💡 **Exploring**: Backend Technologies  
+- 📫 **How to reach me**: [vaishali.rachel06@gmail.com] 
+---
+### 🛠️ Skills and Tools:  
+- **Languages**: Java 
+- **Backend**: Spring Boot, RESTful APIs  
+- **Tools**: IntelliJ IDEA, Git, Maven, JetBrains Suite  
+- **Platforms**: GitHub 
+---
+### 📌 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Vaishali-300)
